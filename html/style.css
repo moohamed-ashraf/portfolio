@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom,rgba(255, 199, 255,1),rgba(255, 255, 255,1));
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+
+.nav {
+  background-color: rgb(31, 31, 31);
+  overflow: hidden;
+}
+
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 18px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.nav a:hover {
+  background-color: rgb(138, 255, 144);
+  color: black;
+}
+
+.activebar {
+  background-color: #04aa9c;
+  color: white;
+}
+.home{
+    color: rgb(78, 49, 80);
+    text-align: justify;
+    font-size: 20px;
+}
